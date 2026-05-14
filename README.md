@@ -37,6 +37,6 @@ Berikut adalah file-file penting yang dikonfigurasi dalam praktikum ini:
 
 ---
 **Dibuat oleh:** M FEBIANSYAH MULYADI  
-**NIM:** 312410593 
+**NIM:** 312410593
 
 **Universitas Pelita Bangsa**
